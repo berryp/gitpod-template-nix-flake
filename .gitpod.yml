@@ -1,0 +1,5 @@
+image: gitpod/workspace-nix
+
+vscode:
+  extensions:
+    - bbenoist.Nix
